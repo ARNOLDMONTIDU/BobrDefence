@@ -30,7 +30,6 @@ public class Enemy : MonoBehaviour
     {
         Move();
     }
-    //123123123
 
     private void Move()
     {
