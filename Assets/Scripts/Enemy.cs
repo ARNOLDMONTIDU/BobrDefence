@@ -37,7 +37,7 @@ public class Enemy : MonoBehaviour
 
         transform.Translate(directionMove.normalized * Time.deltaTime * _speed);
 
-        if (Vector3.Distance(transform.position, _wayPoints[_wayPointIndex].transform.position) < 0.01f)//привет
+        if (Vector3.Distance(transform.position, _wayPoints[_wayPointIndex].transform.position) < 0.01f)
         {
             if (_wayPointIndex < _wayPoints.Count - 1)
             {
