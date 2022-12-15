@@ -9,8 +9,10 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] private float _speed;
     private int _wayPointIndex = 0;
+    [SerializeField] private int _health = 30;
 
     public GameObject _wayPointParent;
+
 
     private void Start()
     {
@@ -29,6 +31,7 @@ public class Enemy : MonoBehaviour
     private void Update()
     {
         Move();
+        CheckIsAlive();
     }
 
     private void Move()
@@ -46,8 +49,20 @@ public class Enemy : MonoBehaviour
             else
             {
                 Destroy(gameObject);
-            }
-            
+            }           
+        }
+    }
+
+    public void TakeDamage(int damage)
+    {
+        _health -= damage;
+    }
+
+    private void CheckIsAlive()
+    {
+        if (_health <= 0)
+        {
+            Destroy(gameObject);
         }
     }
 }

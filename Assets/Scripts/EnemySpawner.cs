@@ -6,11 +6,12 @@ using UnityEngine.UI;
 
 public class EnemySpawner : MonoBehaviour
 {
-    [SerializeField] private GameObject _enemyPrefab , _wayPointParent;
+    [SerializeField] private GameObject _enemyPrefab, _wayPointParent;
     [SerializeField] private float _constTimeToSpawn;
     [SerializeField] private float _timeToSpawn;
     [SerializeField] private int _wavesCount;
     private int _numberOfWave = 0;
+    [SerializeField] private Transform _enemiesParent;
 
     [SerializeField] private TextMeshProUGUI _textNumberOfWave;
 
@@ -37,6 +38,7 @@ public class EnemySpawner : MonoBehaviour
             tempEnemy.transform.SetParent(gameObject.transform, false);
             tempEnemy.GetComponent<Enemy>()._wayPointParent = _wayPointParent;
 
+            
             yield return new WaitForSeconds(0.6f);
         }
 
