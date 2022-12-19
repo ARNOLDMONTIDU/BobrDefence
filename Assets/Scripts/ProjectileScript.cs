@@ -6,8 +6,6 @@ public class ProjectileScript : MonoBehaviour
 {
     [SerializeField] private float _speed;
     [SerializeField] private int _damage = 10;
-    
-
 
     private Transform target;
 
@@ -28,7 +26,7 @@ public class ProjectileScript : MonoBehaviour
         {
             if (Vector2.Distance(transform.position, target.position) < .1f)
             {
-                target.GetComponent<Enemy>().TakeDamage(_damage);
+                target.GetComponent<EnemyScript>().TakeDamage(_damage);
                 Destroy(gameObject);
             }
             else

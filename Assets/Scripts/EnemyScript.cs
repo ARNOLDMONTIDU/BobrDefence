@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class EnemyScript : MonoBehaviour
 {
-
     private List<GameObject> _wayPoints = new List<GameObject>();
 
     [SerializeField] private float _speed;
@@ -19,6 +18,13 @@ public class Enemy : MonoBehaviour
         GetWayPoints();
     }
 
+    private void Update()
+    {
+
+        MoveEnemy();
+        CheckIsAlive();
+    }
+
     private void GetWayPoints()
     {
         for (int i = 0; i < _wayPointParent.transform.childCount; i++)
@@ -27,14 +33,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
-
-    private void Update()
-    {
-        Move();
-        CheckIsAlive();
-    }
-
-    private void Move()
+    private void MoveEnemy()
     {
         Vector3 directionMove = _wayPoints[_wayPointIndex].transform.position - transform.position;
 
@@ -49,7 +48,7 @@ public class Enemy : MonoBehaviour
             else
             {
                 Destroy(gameObject);
-            }           
+            }
         }
     }
 

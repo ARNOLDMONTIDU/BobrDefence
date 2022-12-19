@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Tower : MonoBehaviour
+public class TowerScript : MonoBehaviour
 {
-    private float _range = 2;
+    [SerializeField] private float _range;
     [SerializeField] private float _CurrentCoolDown, _CoolDown;
     [SerializeField] private GameObject _projectile;
 
@@ -41,7 +41,7 @@ public class Tower : MonoBehaviour
             }
 
         }
-        
+
         if (nearestEnemy != null)
         {
             Shoot(nearestEnemy);
@@ -58,5 +58,4 @@ public class Tower : MonoBehaviour
         projectile.transform.position = transform.position;
         projectile.GetComponent<ProjectileScript>().SetTarget(enemy);
     }
-
 }

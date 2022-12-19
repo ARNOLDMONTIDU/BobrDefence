@@ -36,7 +36,7 @@ public class EnemySpawner : MonoBehaviour
         {
             GameObject tempEnemy = Instantiate(_enemyPrefab);
             tempEnemy.transform.SetParent(gameObject.transform, false);
-            tempEnemy.GetComponent<Enemy>()._wayPointParent = _wayPointParent;
+            tempEnemy.GetComponent<EnemyScript>()._wayPointParent = _wayPointParent;
 
             
             yield return new WaitForSeconds(0.6f);
