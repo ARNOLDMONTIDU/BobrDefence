@@ -6020,11 +6020,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4903474068658712750, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.920541
+      value: 7.04
       objectReference: {fileID: 0}
     - target: {fileID: 4903474068658712750, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.962736
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4903474068658712750, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10320,14 +10320,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5746702840951402064, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-      propertyPath: _CoolDown
-      value: 0.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 5746702840951402064, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-      propertyPath: _CurrentCoolDown
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
       propertyPath: m_Name
       value: Tower
@@ -14540,27 +14532,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &2065321902 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  m_PrefabInstance: {fileID: 1504198807}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2065321906
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2065321902}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 418646c44977d1a498022261f6ccb412, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _range: 2
-  _CurrentCoolDown: 0
-  _CoolDown: 0.5
-  _projectile: {fileID: 8782678577101736860, guid: fcc89e53dec6b5a428bb86858513d853, type: 3}
 --- !u!1 &2077322078
 GameObject:
   m_ObjectHideFlags: 0
