@@ -9,7 +9,6 @@ public class ProjectileScript : MonoBehaviour
 
     private Transform target;
 
-    // Update is called once per frame
     void Update()
     {
         Move();
