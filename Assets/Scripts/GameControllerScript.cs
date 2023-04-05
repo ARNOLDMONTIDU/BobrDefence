@@ -40,14 +40,14 @@ public enum TowerType
 public class GameControllerScript : MonoBehaviour
 {
     public List<Tower> AllTowers = new List<Tower>();
-    public List<TowerProjectile> AllProjectiles = AllProjectiles = new List<TowerProjectile>();
+    public List<TowerProjectile> AllProjectiles  = new List<TowerProjectile>();
 
     private void Awake()
     {
         AllTowers.Add(new Tower(2,.3f, "TowerSprites/FastTower"));
         AllTowers.Add(new Tower(5, 1, "TowerSprites/SlowTower"));
 
-        AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastTower"));
-        AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowTower"));
+        AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastProjectile"));
+        AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
     }
 }

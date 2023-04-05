@@ -67,6 +67,7 @@ public class TowerScript : MonoBehaviour
         selfTower.CurrentCoolDown = selfTower.CoolDown;
 
         GameObject projectile = Instantiate(_projectile);
+        projectile.GetComponent<ProjectileScript>().selfProjectile = gcs.AllProjectiles[(int)selfType];
         projectile.transform.position = transform.position;
         projectile.GetComponent<ProjectileScript>().SetTarget(enemy);
     }
