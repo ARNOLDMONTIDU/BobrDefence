@@ -33,7 +33,9 @@ public class TowerProjectile
 public enum TowerType
 { 
     FIRST_TOWER,
-    SECOND_TOWER
+    SECOND_TOWER,
+    THIRTH_TOWER
+
 }
 
 
@@ -44,10 +46,13 @@ public class GameControllerScript : MonoBehaviour
 
     private void Awake()
     {
+        //range, cooldown, path
         AllTowers.Add(new Tower(2,.3f, "TowerSprites/FastTower"));
-        AllTowers.Add(new Tower(5, 1, "TowerSprites/SlowTower"));
-
+        AllTowers.Add(new Tower(4, 1, "TowerSprites/SlowTower")); 
+        AllTowers.Add(new Tower(3, 2, "TowerSprites/OneMoreTower"));
+        //speed, damage, path
         AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastProjectile"));
         AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
+        AllProjectiles.Add(new TowerProjectile(4, 8, "ProjectilesSprites/SlowProjectile"));
     }
 }
