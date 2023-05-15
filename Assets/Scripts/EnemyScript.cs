@@ -6,7 +6,8 @@ public class EnemyScript : MonoBehaviour
 {
     private List<GameObject> _wayPoints = new List<GameObject>();
 
-    [SerializeField] private float _speed;
+    [SerializeField] public float _speed;
+    float startSpeed = 2;
     private int _wayPointIndex = 0;
     [SerializeField] private int _health = 30;
 
@@ -22,7 +23,7 @@ public class EnemyScript : MonoBehaviour
     {
 
         MoveEnemy();
-        CheckIsAlive();
+        
     }
 
     private void GetWayPoints()
@@ -55,6 +56,7 @@ public class EnemyScript : MonoBehaviour
     public void TakeDamage(int damage)
     {
         _health -= damage;
+        CheckIsAlive();
     }
 
     private void CheckIsAlive()
@@ -64,4 +66,19 @@ public class EnemyScript : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public void StartSlow(float duration, float slowValue)
+    {
+        _speed = startSpeed;
+        StopCoroutine("GetSlow");
+        StartCoroutine(GetSlow(duration, slowValue));
+    }
+
+    IEnumerator GetSlow(float duration, float slowValue)
+    {
+        _speed -= slowValue;
+        yield return new WaitForSeconds(duration);
+        _speed = startSpeed;
+    }
+
 }

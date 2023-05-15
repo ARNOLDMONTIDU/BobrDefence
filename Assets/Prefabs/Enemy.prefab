@@ -97,6 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ae546c0171e76d4799f8c46d5e3640b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1
+  _speed: 2
+  startSpeed: 2
   _health: 30
   _wayPointParent: {fileID: 0}

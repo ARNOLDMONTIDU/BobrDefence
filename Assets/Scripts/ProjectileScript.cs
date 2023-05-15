@@ -7,9 +7,16 @@ public class ProjectileScript : MonoBehaviour
     
     private Transform target;
     public TowerProjectile selfProjectile;
+    public Tower selfTower;
+    GameControllerScript gcs;
 
     private void Start()
     {
+        
+
+        gcs = FindObjectOfType<GameControllerScript>();
+
+        selfProjectile = gcs.AllProjectiles[selfTower.type];
         GetComponent<SpriteRenderer>().sprite = selfProjectile.Spr;
     }
 
@@ -29,8 +36,7 @@ public class ProjectileScript : MonoBehaviour
         {
             if (Vector2.Distance(transform.position, target.position) < .1f)
             {
-                target.GetComponent<EnemyScript>().TakeDamage(selfProjectile.damage);
-                Destroy(gameObject);
+                Hit();
             }
             else
             {
@@ -42,5 +48,22 @@ public class ProjectileScript : MonoBehaviour
             Destroy(gameObject);
     }
 
-
+    void Hit()
+    {
+        switch (selfTower.type)
+        {
+            case (int)TowerType.FIRST_TOWER:
+                
+                target.GetComponent<EnemyScript>().TakeDamage(selfProjectile.damage);
+                break;
+            case (int)TowerType.SECOND_TOWER:
+                target.GetComponent<EnemyScript>().TakeDamage(selfProjectile.damage);
+                break;
+            case (int)TowerType.THIRTH_TOWER:
+                target.GetComponent<EnemyScript>().StartSlow(3, 1);
+                target.GetComponent<EnemyScript>().TakeDamage(selfProjectile.damage);
+                break;
+        }
+        Destroy(gameObject);
+    }
 }

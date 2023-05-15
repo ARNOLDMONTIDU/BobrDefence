@@ -19,12 +19,13 @@ public class TowerScript : MonoBehaviour
 
         GetComponent<SpriteRenderer>().sprite = selfTower.Spr;
 
+        InvokeRepeating("FindTarget", 0 , .1f);
+
     }
 
     private void Update()
     {
-        if (CanShoot())
-            FindTarget();
+
 
         if (selfTower.CurrentCoolDown > 0)
             selfTower.CurrentCoolDown -= Time.deltaTime;
@@ -39,27 +40,32 @@ public class TowerScript : MonoBehaviour
 
     private void FindTarget()
     {
-        Transform nearestEnemy = null;
-        float nearestEnemyDistance = Mathf.Infinity;
-
-        foreach (GameObject enemy in GameObject.FindGameObjectsWithTag("Enemy"))
+        if (CanShoot())
         {
-            float currentDistance = Vector2.Distance(transform.position, enemy.transform.position);
 
-            if (currentDistance < nearestEnemyDistance && currentDistance <= selfTower.range)
+
+
+            Transform nearestEnemy = null;
+            float nearestEnemyDistance = Mathf.Infinity;
+
+            foreach (GameObject enemy in GameObject.FindGameObjectsWithTag("Enemy"))
             {
-                nearestEnemy = enemy.transform;
-                nearestEnemyDistance = currentDistance;
+                float currentDistance = Vector2.Distance(transform.position, enemy.transform.position);
+
+                if (currentDistance < nearestEnemyDistance && currentDistance <= selfTower.range)
+                {
+                    nearestEnemy = enemy.transform;
+                    nearestEnemyDistance = currentDistance;
+                }
+
+            }
+
+            if (nearestEnemy != null)
+            {
+                Shoot(nearestEnemy);
             }
 
         }
-
-        if (nearestEnemy != null)
-        {
-            Shoot(nearestEnemy);
-        }
-
-
     }
 
     private void Shoot(Transform enemy)
@@ -67,7 +73,7 @@ public class TowerScript : MonoBehaviour
         selfTower.CurrentCoolDown = selfTower.CoolDown;
 
         GameObject projectile = Instantiate(_projectile);
-        projectile.GetComponent<ProjectileScript>().selfProjectile = gcs.AllProjectiles[(int)selfType];
+        projectile.GetComponent<ProjectileScript>().selfTower = selfTower;
         projectile.transform.position = transform.position;
         projectile.GetComponent<ProjectileScript>().SetTarget(enemy);
     }
