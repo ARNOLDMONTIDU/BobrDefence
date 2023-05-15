@@ -45,6 +45,13 @@ public class Enemy
         Spr = Resources.Load<Sprite>(sprPath);
     }
 
+    public Enemy(Enemy other)
+    {
+        Health = other.Health;
+        StartSpeed = Speed = other.StartSpeed;
+        Spr = other.Spr;
+    }
+
 }
 
 public enum TowerType
@@ -73,6 +80,8 @@ public class GameControllerScript : MonoBehaviour
         AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
         AllProjectiles.Add(new TowerProjectile(4, 8, "ProjectilesSprites/SlowProjectile"));
 
-        AllEnemies.Add(new Enemy(30,2, "EnemySprites/SimpleEnemy"));
+        AllEnemies.Add(new Enemy(60,2, "EnemySprites/SimpleEnemy"));
+        AllEnemies.Add(new Enemy(30, 4, "EnemySprites/FastEnemy"));
+        AllEnemies.Add(new Enemy(100, 1.5f, "EnemySprites/HeavyEnemy"));
     }
 }

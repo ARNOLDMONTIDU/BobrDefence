@@ -6,10 +6,13 @@ public class EnemyScript : MonoBehaviour
 {
     private List<GameObject> _wayPoints = new List<GameObject>();
 
-    [SerializeField] public float _speed;
-    float startSpeed = 2;
+    public Enemy selfEnemy;
+
+    //[SerializeField] public float _speed;
+    //float startSpeed = 2;
+    //[SerializeField] private int _health = 30;
     private int _wayPointIndex = 0;
-    [SerializeField] private int _health = 30;
+
 
     public GameObject _wayPointParent;
 
@@ -17,6 +20,8 @@ public class EnemyScript : MonoBehaviour
     private void Start()
     {
         GetWayPoints();
+
+        GetComponent<SpriteRenderer>().sprite = selfEnemy.Spr;
     }
 
     private void Update()
@@ -38,7 +43,7 @@ public class EnemyScript : MonoBehaviour
     {
         Vector3 directionMove = _wayPoints[_wayPointIndex].transform.position - transform.position;
 
-        transform.Translate(directionMove.normalized * Time.deltaTime * _speed);
+        transform.Translate(directionMove.normalized * Time.deltaTime * selfEnemy.Speed);
 
         if (Vector3.Distance(transform.position, _wayPoints[_wayPointIndex].transform.position) < 0.01f)
         {
@@ -55,13 +60,13 @@ public class EnemyScript : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        _health -= damage;
+        selfEnemy.Health -= damage;
         CheckIsAlive();
     }
 
     private void CheckIsAlive()
     {
-        if (_health <= 0)
+        if (selfEnemy.Health <= 0)
         {
             Destroy(gameObject);
         }
@@ -69,16 +74,34 @@ public class EnemyScript : MonoBehaviour
 
     public void StartSlow(float duration, float slowValue)
     {
-        _speed = startSpeed;
+        selfEnemy.Speed = selfEnemy.StartSpeed;
         StopCoroutine("GetSlow");
         StartCoroutine(GetSlow(duration, slowValue));
     }
 
     IEnumerator GetSlow(float duration, float slowValue)
     {
-        _speed -= slowValue;
+        selfEnemy.Speed -= slowValue;
         yield return new WaitForSeconds(duration);
-        _speed = startSpeed;
+        selfEnemy.Speed = selfEnemy.StartSpeed;
     }
 
+
+    public void AOEDamage(float range, int damage)
+    {
+        List<EnemyScript> enemies = new List<EnemyScript>(); 
+
+        foreach (GameObject go in GameObject.FindGameObjectsWithTag("Enemy"))
+        {
+            if (Vector2.Distance(transform.position, go.transform.position) <= range)
+            {
+                enemies.Add(go.GetComponent<EnemyScript>());
+            }
+        }
+
+        foreach (EnemyScript es in enemies)
+        {
+            es.TakeDamage(damage);
+        }
+    }
 }

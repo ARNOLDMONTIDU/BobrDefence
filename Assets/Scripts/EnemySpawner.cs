@@ -15,6 +15,13 @@ public class EnemySpawner : MonoBehaviour
 
     [SerializeField] private TextMeshProUGUI _textNumberOfWave;
 
+    GameControllerScript gcs;
+
+    private void Start()
+    {
+        gcs = FindObjectOfType<GameControllerScript>();
+    }
+
     void Update()
     {
         if (_timeToSpawn <= 0 && _numberOfWave < _wavesCount)
@@ -36,9 +43,13 @@ public class EnemySpawner : MonoBehaviour
         {
             GameObject tempEnemy = Instantiate(_enemyPrefab);
             tempEnemy.transform.SetParent(gameObject.transform, false);
-            tempEnemy.GetComponent<EnemyScript>()._wayPointParent = _wayPointParent;
 
             
+
+            tempEnemy.GetComponent<EnemyScript>()._wayPointParent = _wayPointParent;
+            tempEnemy.GetComponent<EnemyScript>().selfEnemy = new Enemy(gcs.AllEnemies[Random.Range(0, gcs.AllEnemies.Count)]);
+
+
             yield return new WaitForSeconds(0.6f);
         }
 
