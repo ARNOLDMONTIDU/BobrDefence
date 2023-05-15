@@ -35,11 +35,14 @@ public class TowerProjectile
 public class Enemy
 {
     public float Health, Speed, StartSpeed;
+    public Sprite Spr;
 
     public Enemy(float health, float speed, string sprPath)
     {
         Health = health;
         StartSpeed= Speed = speed;
+
+        Spr = Resources.Load<Sprite>(sprPath);
     }
 
 }
@@ -57,6 +60,7 @@ public class GameControllerScript : MonoBehaviour
 {
     public List<Tower> AllTowers = new List<Tower>();
     public List<TowerProjectile> AllProjectiles  = new List<TowerProjectile>();
+    public List<Enemy> AllEnemies = new List<Enemy>();
 
     private void Awake()
     {
@@ -68,5 +72,7 @@ public class GameControllerScript : MonoBehaviour
         AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastProjectile"));
         AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
         AllProjectiles.Add(new TowerProjectile(4, 8, "ProjectilesSprites/SlowProjectile"));
+
+        AllEnemies.Add(new Enemy(30,2, "EnemySprites/SimpleEnemy"));
     }
 }
