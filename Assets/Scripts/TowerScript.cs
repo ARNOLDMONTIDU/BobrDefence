@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TowerScript : MonoBehaviour
 {
-    
+
     [SerializeField] private GameObject _projectile;
     Tower selfTower;
     public TowerType selfType;

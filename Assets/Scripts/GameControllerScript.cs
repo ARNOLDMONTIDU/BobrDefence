@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class Tower
 {
-    public int type;
+    public string Name;
+    public int type, Price;
     public float range, CoolDown, CurrentCoolDown = 0;
     public Sprite Spr;
 
-    public Tower(int type,float range, float coolDown, string path)
+    public Tower(string Name,int type,float range, float coolDown,int Price, string path)
     {
+        this.Name = Name;
         this.type = type;
         this.range = range; 
         CoolDown = coolDown;
+        this.Price = Price;
         Spr = Resources.Load<Sprite>(path);
     }
 
@@ -71,10 +74,10 @@ public class GameControllerScript : MonoBehaviour
 
     private void Awake()
     {
-        //range, cooldown, path
-        AllTowers.Add(new Tower(0, 2,.3f, "TowerSprites/FastTower"));
-        AllTowers.Add(new Tower(1, 4, 1, "TowerSprites/SlowTower")); 
-        AllTowers.Add(new Tower(2, 3, 2, "TowerSprites/OneMoreTower"));
+        //name, range, cooldown, Price, path
+        AllTowers.Add(new Tower("FastTower", 0, 2,.3f, 10, "TowerSprites/FastTower"));
+        AllTowers.Add(new Tower("SlowTower", 1, 4, 1, 20,"TowerSprites/SlowTower")); 
+        AllTowers.Add(new Tower("OneMoreTower", 2, 3, 2, 30,"TowerSprites/OneMoreTower"));
         //speed, damage, path
         AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastProjectile"));
         AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
