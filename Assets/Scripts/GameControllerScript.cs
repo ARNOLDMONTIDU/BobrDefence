@@ -9,7 +9,7 @@ public class Tower
     public float range, CoolDown, CurrentCoolDown = 0;
     public Sprite Spr;
 
-    public Tower(string Name,int type,float range, float coolDown,int Price, string path)
+    public Tower(string Name, int type, float range, float coolDown, int Price, string path)
     {
         this.Name = Name;
         this.type = type;
@@ -75,9 +75,9 @@ public class GameControllerScript : MonoBehaviour
     private void Awake()
     {
         //name, range, cooldown, Price, path
-        AllTowers.Add(new Tower("FastTower", 0, 2,.3f, 10, "TowerSprites/FastTower"));
-        AllTowers.Add(new Tower("SlowTower", 1, 4, 1, 20,"TowerSprites/SlowTower")); 
-        AllTowers.Add(new Tower("OneMoreTower", 2, 3, 2, 30,"TowerSprites/OneMoreTower"));
+        AllTowers.Add(new Tower("FastTower", 0, 2, 3f, 10, "TowerSprites/FastTower"));
+        AllTowers.Add(new Tower("SlowTower", 1, 4, 1f, 20,"TowerSprites/SlowTower")); 
+        AllTowers.Add(new Tower("OneMoreTower", 2, 3, 2f, 30,"TowerSprites/OneMoreTower"));
         //speed, damage, path
         AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastProjectile"));
         AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
