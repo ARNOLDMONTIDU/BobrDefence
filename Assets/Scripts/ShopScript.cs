@@ -21,7 +21,12 @@ public class ShopScript : MonoBehaviour
             tmpItem.GetComponent<ShopItemScript>().SetStartData(tower);
         }
 
-    } 
+    }
+
+    public void CloseShop()
+    {
+        Destroy(gameObject);
+    }
 
 
 }

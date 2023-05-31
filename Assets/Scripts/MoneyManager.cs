@@ -20,6 +20,6 @@ public class MoneyManager : MonoBehaviour
 
     void Update()
     {
-        MoneyTxt.text = GameMoney.ToString(); 
+        //MoneyTxt.text = GameMoney.ToString(); 
     }
 }

@@ -251,7 +251,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &43676314
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,7 +380,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &50007455
 GameObject:
   m_ObjectHideFlags: 0
@@ -509,7 +509,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &52606747
 GameObject:
   m_ObjectHideFlags: 0
@@ -638,7 +638,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &92166879
 GameObject:
   m_ObjectHideFlags: 0
@@ -767,7 +767,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &96424441
 GameObject:
   m_ObjectHideFlags: 0
@@ -896,7 +896,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &121624845
 GameObject:
   m_ObjectHideFlags: 0
@@ -1025,7 +1025,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &129080491
 GameObject:
   m_ObjectHideFlags: 0
@@ -1154,7 +1154,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &140468668
 GameObject:
   m_ObjectHideFlags: 0
@@ -1283,7 +1283,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &143654141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1412,7 +1412,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &151707164
 GameObject:
   m_ObjectHideFlags: 0
@@ -1541,12 +1541,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
---- !u!224 &174697955 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 5563464392608363070, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
-  m_PrefabInstance: {fileID: 5563464392501960669}
-  m_PrefabAsset: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &186598400
 GameObject:
   m_ObjectHideFlags: 0
@@ -1675,7 +1670,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &192904912
 GameObject:
   m_ObjectHideFlags: 0
@@ -1804,7 +1799,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &194302953
 GameObject:
   m_ObjectHideFlags: 0
@@ -1933,7 +1928,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &198027178
 GameObject:
   m_ObjectHideFlags: 0
@@ -2197,7 +2192,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &220027527
 GameObject:
   m_ObjectHideFlags: 0
@@ -2326,7 +2321,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &220578858
 GameObject:
   m_ObjectHideFlags: 0
@@ -2455,7 +2450,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &277330142
 GameObject:
   m_ObjectHideFlags: 0
@@ -2584,7 +2579,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &279537999
 GameObject:
   m_ObjectHideFlags: 0
@@ -2713,7 +2708,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &287200552
 GameObject:
   m_ObjectHideFlags: 0
@@ -2842,7 +2837,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &294147358
 GameObject:
   m_ObjectHideFlags: 0
@@ -2971,7 +2966,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &299099744
 GameObject:
   m_ObjectHideFlags: 0
@@ -3100,7 +3095,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &308967754
 GameObject:
   m_ObjectHideFlags: 0
@@ -3229,7 +3224,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &317103564
 GameObject:
   m_ObjectHideFlags: 0
@@ -3358,7 +3353,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &321624479
 GameObject:
   m_ObjectHideFlags: 0
@@ -3487,7 +3482,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &335315025
 GameObject:
   m_ObjectHideFlags: 0
@@ -3616,7 +3611,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &339589242
 GameObject:
   m_ObjectHideFlags: 0
@@ -3745,7 +3740,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &342269978
 GameObject:
   m_ObjectHideFlags: 0
@@ -3874,7 +3869,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &347242195
 GameObject:
   m_ObjectHideFlags: 0
@@ -4003,7 +3998,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &359499751
 GameObject:
   m_ObjectHideFlags: 0
@@ -4132,7 +4127,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &409970813
 GameObject:
   m_ObjectHideFlags: 0
@@ -4261,7 +4256,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &410398965
 GameObject:
   m_ObjectHideFlags: 0
@@ -4390,7 +4385,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &411979443
 GameObject:
   m_ObjectHideFlags: 0
@@ -4519,7 +4514,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &414581603
 GameObject:
   m_ObjectHideFlags: 0
@@ -4648,7 +4643,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &429889204
 GameObject:
   m_ObjectHideFlags: 0
@@ -4777,7 +4772,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &438023750
 GameObject:
   m_ObjectHideFlags: 0
@@ -4906,7 +4901,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &441134325
 GameObject:
   m_ObjectHideFlags: 0
@@ -5035,7 +5030,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &454782798
 GameObject:
   m_ObjectHideFlags: 0
@@ -5164,7 +5159,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &509355954
 GameObject:
   m_ObjectHideFlags: 0
@@ -5293,7 +5288,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -5521,7 +5516,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &536505517
 GameObject:
   m_ObjectHideFlags: 0
@@ -5650,7 +5645,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &557815614
 GameObject:
   m_ObjectHideFlags: 0
@@ -5779,7 +5774,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &584505780
 GameObject:
   m_ObjectHideFlags: 0
@@ -5939,7 +5934,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &587773176
 GameObject:
   m_ObjectHideFlags: 0
@@ -6068,7 +6063,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &590638230
 GameObject:
   m_ObjectHideFlags: 0
@@ -6197,7 +6192,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &595188049
 GameObject:
   m_ObjectHideFlags: 0
@@ -6357,7 +6352,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &633455598
 GameObject:
   m_ObjectHideFlags: 0
@@ -6589,7 +6584,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &647192711
 GameObject:
   m_ObjectHideFlags: 0
@@ -6718,7 +6713,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &658244191
 GameObject:
   m_ObjectHideFlags: 0
@@ -6847,7 +6842,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &673004213
 GameObject:
   m_ObjectHideFlags: 0
@@ -6976,7 +6971,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &675507829
 GameObject:
   m_ObjectHideFlags: 0
@@ -7105,7 +7100,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &676440750
 GameObject:
   m_ObjectHideFlags: 0
@@ -7234,7 +7229,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &678022681
 GameObject:
   m_ObjectHideFlags: 0
@@ -7363,7 +7358,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &684519858
 GameObject:
   m_ObjectHideFlags: 0
@@ -7492,7 +7487,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &698296772
 GameObject:
   m_ObjectHideFlags: 0
@@ -7621,7 +7616,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &713141349
 GameObject:
   m_ObjectHideFlags: 0
@@ -7750,7 +7745,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &721586619
 GameObject:
   m_ObjectHideFlags: 0
@@ -7910,7 +7905,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &740394778
 GameObject:
   m_ObjectHideFlags: 0
@@ -8039,7 +8034,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &747329821
 GameObject:
   m_ObjectHideFlags: 0
@@ -8168,7 +8163,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &777411140
 GameObject:
   m_ObjectHideFlags: 0
@@ -8297,7 +8292,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &804783720
 GameObject:
   m_ObjectHideFlags: 0
@@ -8457,7 +8452,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &817975164
 GameObject:
   m_ObjectHideFlags: 0
@@ -8586,7 +8581,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &845806990
 GameObject:
   m_ObjectHideFlags: 0
@@ -8715,7 +8710,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &849382818
 GameObject:
   m_ObjectHideFlags: 0
@@ -8875,7 +8870,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &870691485
 GameObject:
   m_ObjectHideFlags: 0
@@ -9004,7 +8999,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &870842222
 GameObject:
   m_ObjectHideFlags: 0
@@ -9133,7 +9128,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1001 &912988962
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9323,7 +9318,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &925397249
 GameObject:
   m_ObjectHideFlags: 0
@@ -9452,7 +9447,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &946912618
 GameObject:
   m_ObjectHideFlags: 0
@@ -9581,7 +9576,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &947664545
 GameObject:
   m_ObjectHideFlags: 0
@@ -9710,7 +9705,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &961656518
 GameObject:
   m_ObjectHideFlags: 0
@@ -9839,7 +9834,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &972096055
 GameObject:
   m_ObjectHideFlags: 0
@@ -9968,7 +9963,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1005901614
 GameObject:
   m_ObjectHideFlags: 0
@@ -10097,7 +10092,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1008631992
 GameObject:
   m_ObjectHideFlags: 0
@@ -10226,7 +10221,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1026852242
 GameObject:
   m_ObjectHideFlags: 0
@@ -10355,7 +10350,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1033164184
 GameObject:
   m_ObjectHideFlags: 0
@@ -10484,7 +10479,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1035182685
 GameObject:
   m_ObjectHideFlags: 0
@@ -10613,7 +10608,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1036955437
 GameObject:
   m_ObjectHideFlags: 0
@@ -10841,7 +10836,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1059035666
 GameObject:
   m_ObjectHideFlags: 0
@@ -10970,7 +10965,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1077017523
 GameObject:
   m_ObjectHideFlags: 0
@@ -11234,7 +11229,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1087767986
 GameObject:
   m_ObjectHideFlags: 0
@@ -11363,7 +11358,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1089234821
 GameObject:
   m_ObjectHideFlags: 0
@@ -11492,7 +11487,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1109851180
 GameObject:
   m_ObjectHideFlags: 0
@@ -11652,7 +11647,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1137267079
 GameObject:
   m_ObjectHideFlags: 0
@@ -11781,7 +11776,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1140230752
 GameObject:
   m_ObjectHideFlags: 0
@@ -11910,7 +11905,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1144944623
 GameObject:
   m_ObjectHideFlags: 0
@@ -12039,7 +12034,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1148060090
 GameObject:
   m_ObjectHideFlags: 0
@@ -12168,7 +12163,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1155611888
 GameObject:
   m_ObjectHideFlags: 0
@@ -12297,7 +12292,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1158381668
 GameObject:
   m_ObjectHideFlags: 0
@@ -12426,7 +12421,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1175722405
 GameObject:
   m_ObjectHideFlags: 0
@@ -12555,7 +12550,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1179103410
 GameObject:
   m_ObjectHideFlags: 0
@@ -12684,7 +12679,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1210384905
 GameObject:
   m_ObjectHideFlags: 0
@@ -12813,7 +12808,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1270015173
 GameObject:
   m_ObjectHideFlags: 0
@@ -12973,7 +12968,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1277595126
 GameObject:
   m_ObjectHideFlags: 0
@@ -13102,7 +13097,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1294801026
 GameObject:
   m_ObjectHideFlags: 0
@@ -13231,7 +13226,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1299032859
 GameObject:
   m_ObjectHideFlags: 0
@@ -13360,7 +13355,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1326633500
 GameObject:
   m_ObjectHideFlags: 0
@@ -13489,7 +13484,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1328644597
 GameObject:
   m_ObjectHideFlags: 0
@@ -13618,7 +13613,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1338466545
 GameObject:
   m_ObjectHideFlags: 0
@@ -13747,7 +13742,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1361325309
 GameObject:
   m_ObjectHideFlags: 0
@@ -13907,7 +13902,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1411241349
 GameObject:
   m_ObjectHideFlags: 0
@@ -14036,7 +14031,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1413802794
 GameObject:
   m_ObjectHideFlags: 0
@@ -14165,7 +14160,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1431099922
 GameObject:
   m_ObjectHideFlags: 0
@@ -14294,7 +14289,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1432572047
 GameObject:
   m_ObjectHideFlags: 0
@@ -14423,7 +14418,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1440613963
 GameObject:
   m_ObjectHideFlags: 0
@@ -14583,7 +14578,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1467031891
 GameObject:
   m_ObjectHideFlags: 0
@@ -14712,7 +14707,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1476045911
 GameObject:
   m_ObjectHideFlags: 0
@@ -14841,7 +14836,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1484688265
 GameObject:
   m_ObjectHideFlags: 0
@@ -15021,7 +15016,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1486112895
 GameObject:
   m_ObjectHideFlags: 0
@@ -15150,7 +15145,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1492579482
 GameObject:
   m_ObjectHideFlags: 0
@@ -15279,7 +15274,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1494465438
 GameObject:
   m_ObjectHideFlags: 0
@@ -15408,7 +15403,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1001 &1504198807
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15594,7 +15589,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1509787928
 GameObject:
   m_ObjectHideFlags: 0
@@ -15723,7 +15718,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1516483993
 GameObject:
   m_ObjectHideFlags: 0
@@ -15852,7 +15847,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1523590694
 GameObject:
   m_ObjectHideFlags: 0
@@ -16012,7 +16007,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1546877805
 GameObject:
   m_ObjectHideFlags: 0
@@ -16141,7 +16136,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1553364636
 GameObject:
   m_ObjectHideFlags: 0
@@ -16270,7 +16265,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1586965757
 GameObject:
   m_ObjectHideFlags: 0
@@ -16446,7 +16441,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1590492329
 GameObject:
   m_ObjectHideFlags: 0
@@ -16575,7 +16570,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1603184089
 GameObject:
   m_ObjectHideFlags: 0
@@ -16704,7 +16699,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1622864003
 GameObject:
   m_ObjectHideFlags: 0
@@ -16833,7 +16828,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1637807452
 GameObject:
   m_ObjectHideFlags: 0
@@ -16962,7 +16957,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1647184081
 GameObject:
   m_ObjectHideFlags: 0
@@ -17122,7 +17117,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1662231087
 GameObject:
   m_ObjectHideFlags: 0
@@ -17251,7 +17246,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1683946368
 GameObject:
   m_ObjectHideFlags: 0
@@ -17380,7 +17375,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1689437772
 GameObject:
   m_ObjectHideFlags: 0
@@ -17509,7 +17504,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1691581756
 GameObject:
   m_ObjectHideFlags: 0
@@ -17638,7 +17633,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1703184092
 GameObject:
   m_ObjectHideFlags: 0
@@ -17767,7 +17762,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1708319938
 GameObject:
   m_ObjectHideFlags: 0
@@ -17896,7 +17891,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1709519913
 GameObject:
   m_ObjectHideFlags: 0
@@ -18025,7 +18020,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1728282081
 GameObject:
   m_ObjectHideFlags: 0
@@ -18198,7 +18193,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1742527188
 GameObject:
   m_ObjectHideFlags: 0
@@ -18327,7 +18322,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1764989466
 GameObject:
   m_ObjectHideFlags: 0
@@ -18456,7 +18451,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1001 &1766678878
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18646,7 +18641,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1776455825
 GameObject:
   m_ObjectHideFlags: 0
@@ -18775,7 +18770,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1785116541
 GameObject:
   m_ObjectHideFlags: 0
@@ -18904,7 +18899,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1792350057
 GameObject:
   m_ObjectHideFlags: 0
@@ -19033,7 +19028,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1801468010
 GameObject:
   m_ObjectHideFlags: 0
@@ -19162,7 +19157,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1802712166
 GameObject:
   m_ObjectHideFlags: 0
@@ -19291,7 +19286,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1807856082
 GameObject:
   m_ObjectHideFlags: 0
@@ -19420,7 +19415,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1821811698
 GameObject:
   m_ObjectHideFlags: 0
@@ -19549,7 +19544,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1853085642
 GameObject:
   m_ObjectHideFlags: 0
@@ -19678,7 +19673,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1860752383
 GameObject:
   m_ObjectHideFlags: 0
@@ -19997,7 +19992,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1901656453
 GameObject:
   m_ObjectHideFlags: 0
@@ -20126,7 +20121,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1915215529
 GameObject:
   m_ObjectHideFlags: 0
@@ -20255,7 +20250,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1922848758
 GameObject:
   m_ObjectHideFlags: 0
@@ -20384,7 +20379,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1934689268
 GameObject:
   m_ObjectHideFlags: 0
@@ -20513,7 +20508,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1950540967
 GameObject:
   m_ObjectHideFlags: 0
@@ -20673,7 +20668,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!224 &1959424911 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5563464390685453394, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
@@ -20807,7 +20802,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &1990458842
 GameObject:
   m_ObjectHideFlags: 0
@@ -21115,7 +21110,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2020233417
 GameObject:
   m_ObjectHideFlags: 0
@@ -21244,7 +21239,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2042814517
 GameObject:
   m_ObjectHideFlags: 0
@@ -21373,7 +21368,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2050088705
 GameObject:
   m_ObjectHideFlags: 0
@@ -21502,7 +21497,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2057068181
 GameObject:
   m_ObjectHideFlags: 0
@@ -21631,7 +21626,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2064919364
 GameObject:
   m_ObjectHideFlags: 0
@@ -21760,7 +21755,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2077322078
 GameObject:
   m_ObjectHideFlags: 0
@@ -21889,7 +21884,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2100809580
 GameObject:
   m_ObjectHideFlags: 0
@@ -22018,7 +22013,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2139250488
 GameObject:
   m_ObjectHideFlags: 0
@@ -22147,7 +22142,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1 &2144663315
 GameObject:
   m_ObjectHideFlags: 0
@@ -22276,7 +22271,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
-  ShopPref: {fileID: 0}
+  ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
 --- !u!1001 &5563464392501960669
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22284,14 +22279,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 633455602}
     m_Modifications:
-    - target: {fileID: 5563464390685453389, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
-      propertyPath: ItemGrid
-      value: 
-      objectReference: {fileID: 174697955}
-    - target: {fileID: 5563464390685453389, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
-      propertyPath: ItemPref
-      value: 
-      objectReference: {fileID: 1245153635591597056, guid: f1ed65444d019944fb8cc11ca61f9e34, type: 3}
     - target: {fileID: 5563464390685453394, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -22379,10 +22366,6 @@ PrefabInstance:
     - target: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
       propertyPath: m_Name
       value: ShopPref
-      objectReference: {fileID: 0}
-    - target: {fileID: 5563464392608363071, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
-      propertyPath: m_Name
-      value: ItemGrid
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 862b132caa862004ba43cb5618bdf322, type: 3}

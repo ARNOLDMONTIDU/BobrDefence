@@ -251,6 +251,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &18439946
 GameObject:
   m_ObjectHideFlags: 0
@@ -286,6 +287,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &18439948
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -414,6 +416,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &33805731
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -635,6 +638,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &50007455
 GameObject:
   m_ObjectHideFlags: 0
@@ -763,6 +767,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &52606747
 GameObject:
   m_ObjectHideFlags: 0
@@ -891,6 +896,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &92166879
 GameObject:
   m_ObjectHideFlags: 0
@@ -1019,6 +1025,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &96424441
 GameObject:
   m_ObjectHideFlags: 0
@@ -1147,6 +1154,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &121624845
 GameObject:
   m_ObjectHideFlags: 0
@@ -1275,6 +1283,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &129080491
 GameObject:
   m_ObjectHideFlags: 0
@@ -1403,6 +1412,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &140468668
 GameObject:
   m_ObjectHideFlags: 0
@@ -1531,6 +1541,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &143654141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1659,6 +1670,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &151707164
 GameObject:
   m_ObjectHideFlags: 0
@@ -1787,6 +1799,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &152043607
 GameObject:
   m_ObjectHideFlags: 0
@@ -1822,6 +1835,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &152043609
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1950,6 +1964,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &159513517
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2078,6 +2093,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &161193680
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2206,6 +2222,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &165641462
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2334,6 +2351,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &180139647
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2555,6 +2573,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &192904912
 GameObject:
   m_ObjectHideFlags: 0
@@ -2683,6 +2702,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &194302953
 GameObject:
   m_ObjectHideFlags: 0
@@ -2811,6 +2831,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &198979889
 GameObject:
   m_ObjectHideFlags: 0
@@ -2846,6 +2867,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &198979891
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2974,6 +2996,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &208983488
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3102,6 +3125,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &211163733
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3323,6 +3347,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &220027527
 GameObject:
   m_ObjectHideFlags: 0
@@ -3451,6 +3476,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &220578858
 GameObject:
   m_ObjectHideFlags: 0
@@ -3579,6 +3605,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &230022063
 GameObject:
   m_ObjectHideFlags: 0
@@ -3614,6 +3641,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &230022065
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3742,6 +3770,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &233526938
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3870,6 +3899,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &268416233
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3998,6 +4028,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &269111496
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4280,6 +4311,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &279537999
 GameObject:
   m_ObjectHideFlags: 0
@@ -4408,6 +4440,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &287200552
 GameObject:
   m_ObjectHideFlags: 0
@@ -4536,6 +4569,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &294147358
 GameObject:
   m_ObjectHideFlags: 0
@@ -4664,6 +4698,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &299099744
 GameObject:
   m_ObjectHideFlags: 0
@@ -4792,6 +4827,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &308650348
 GameObject:
   m_ObjectHideFlags: 0
@@ -4827,6 +4863,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &308650350
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5048,6 +5085,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &317103564
 GameObject:
   m_ObjectHideFlags: 0
@@ -5176,6 +5214,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &321624479
 GameObject:
   m_ObjectHideFlags: 0
@@ -5304,6 +5343,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &334197026
 GameObject:
   m_ObjectHideFlags: 0
@@ -5339,6 +5379,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &334197028
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5560,6 +5601,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &339589242
 GameObject:
   m_ObjectHideFlags: 0
@@ -5688,6 +5730,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &342269978
 GameObject:
   m_ObjectHideFlags: 0
@@ -5816,6 +5859,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &347242195
 GameObject:
   m_ObjectHideFlags: 0
@@ -5944,6 +5988,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &359499751
 GameObject:
   m_ObjectHideFlags: 0
@@ -6072,6 +6117,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &378045024
 GameObject:
   m_ObjectHideFlags: 0
@@ -6107,6 +6153,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &378045026
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6235,6 +6282,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &400481573
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6456,6 +6504,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &410398965
 GameObject:
   m_ObjectHideFlags: 0
@@ -6584,6 +6633,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &411979443
 GameObject:
   m_ObjectHideFlags: 0
@@ -6712,6 +6762,142 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
+--- !u!1 &413518317
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 413518318}
+  - component: {fileID: 413518320}
+  - component: {fileID: 413518319}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &413518318
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413518317}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1489537088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 3.2672}
+  m_SizeDelta: {x: 0, y: -6.5344}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &413518319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413518317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: '||'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 24
+  m_fontSizeBase: 24
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &413518320
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413518317}
+  m_CullTransparentMesh: 1
 --- !u!1 &414581603
 GameObject:
   m_ObjectHideFlags: 0
@@ -6840,6 +7026,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &429889204
 GameObject:
   m_ObjectHideFlags: 0
@@ -6968,6 +7155,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &438023750
 GameObject:
   m_ObjectHideFlags: 0
@@ -7096,6 +7284,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &441134325
 GameObject:
   m_ObjectHideFlags: 0
@@ -7224,6 +7413,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &450081311
 GameObject:
   m_ObjectHideFlags: 0
@@ -7259,6 +7449,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &450081313
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7480,6 +7671,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &459810693
 GameObject:
   m_ObjectHideFlags: 0
@@ -7515,6 +7707,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &459810695
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7643,6 +7836,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &461593226
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7771,6 +7965,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &475102990
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7899,6 +8094,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &497823438
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8120,6 +8316,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &515827235
 GameObject:
   m_ObjectHideFlags: 0
@@ -8155,6 +8352,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &515827237
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8382,6 +8580,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &526930737
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8603,6 +8802,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &536505517
 GameObject:
   m_ObjectHideFlags: 0
@@ -8731,6 +8931,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &557815614
 GameObject:
   m_ObjectHideFlags: 0
@@ -8859,6 +9060,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &584505780
 GameObject:
   m_ObjectHideFlags: 0
@@ -9018,6 +9220,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &587773176
 GameObject:
   m_ObjectHideFlags: 0
@@ -9146,6 +9349,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &590638230
 GameObject:
   m_ObjectHideFlags: 0
@@ -9274,6 +9478,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &595188049
 GameObject:
   m_ObjectHideFlags: 0
@@ -9433,6 +9638,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &611444953
 GameObject:
   m_ObjectHideFlags: 0
@@ -9468,6 +9674,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &611444955
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9596,6 +9803,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &614134873
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9724,6 +9932,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &624352059
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9945,6 +10154,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &647192711
 GameObject:
   m_ObjectHideFlags: 0
@@ -10073,6 +10283,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &652157543
 GameObject:
   m_ObjectHideFlags: 0
@@ -10108,6 +10319,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &652157545
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10329,6 +10541,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &662954679
 GameObject:
   m_ObjectHideFlags: 0
@@ -10364,6 +10577,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &662954681
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10585,6 +10799,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &675507829
 GameObject:
   m_ObjectHideFlags: 0
@@ -10713,6 +10928,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &676440750
 GameObject:
   m_ObjectHideFlags: 0
@@ -10841,6 +11057,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &677556705
 GameObject:
   m_ObjectHideFlags: 0
@@ -10876,6 +11093,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &677556707
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11097,6 +11315,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &684519858
 GameObject:
   m_ObjectHideFlags: 0
@@ -11225,6 +11444,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &698296772
 GameObject:
   m_ObjectHideFlags: 0
@@ -11353,6 +11573,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &713141349
 GameObject:
   m_ObjectHideFlags: 0
@@ -11481,6 +11702,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &721586619
 GameObject:
   m_ObjectHideFlags: 0
@@ -11640,6 +11862,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &740394778
 GameObject:
   m_ObjectHideFlags: 0
@@ -11768,6 +11991,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &747329821
 GameObject:
   m_ObjectHideFlags: 0
@@ -11896,6 +12120,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &763718523
 GameObject:
   m_ObjectHideFlags: 0
@@ -11931,6 +12156,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &763718525
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12152,6 +12378,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &804783720
 GameObject:
   m_ObjectHideFlags: 0
@@ -12218,6 +12445,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &810463743
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12439,6 +12667,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &817975164
 GameObject:
   m_ObjectHideFlags: 0
@@ -12567,6 +12796,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &828752989
 GameObject:
   m_ObjectHideFlags: 0
@@ -12602,6 +12832,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &828752991
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12823,6 +13054,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &849382818
 GameObject:
   m_ObjectHideFlags: 0
@@ -12982,6 +13214,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &870691485
 GameObject:
   m_ObjectHideFlags: 0
@@ -13110,6 +13343,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &870842222
 GameObject:
   m_ObjectHideFlags: 0
@@ -13238,6 +13472,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &885852527
 GameObject:
   m_ObjectHideFlags: 0
@@ -13273,6 +13508,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &885852529
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13401,6 +13637,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &904730761
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13687,6 +13924,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &920229842
 GameObject:
   m_ObjectHideFlags: 0
@@ -13722,6 +13960,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &920229844
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13943,6 +14182,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &927364402
 GameObject:
   m_ObjectHideFlags: 0
@@ -13978,6 +14218,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &927364404
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14106,6 +14347,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &932166488
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14327,6 +14569,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &947664545
 GameObject:
   m_ObjectHideFlags: 0
@@ -14455,6 +14698,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &961656518
 GameObject:
   m_ObjectHideFlags: 0
@@ -14583,6 +14827,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &964547176
 GameObject:
   m_ObjectHideFlags: 0
@@ -14618,6 +14863,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &964547178
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14839,6 +15085,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1001898644
 GameObject:
   m_ObjectHideFlags: 0
@@ -14874,6 +15121,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1001898646
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15002,8 +15250,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -300, y: 199.84}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -301.2, y: 200}
+  m_SizeDelta: {x: 119.1153, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1002950244
 MonoBehaviour:
@@ -15025,7 +15273,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: $ 400
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15034,8 +15282,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278252543
+  m_fontColor: {r: 1, g: 0.9514396, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -15230,6 +15478,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1008631992
 GameObject:
   m_ObjectHideFlags: 0
@@ -15358,6 +15607,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1026852242
 GameObject:
   m_ObjectHideFlags: 0
@@ -15486,6 +15736,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1033164184
 GameObject:
   m_ObjectHideFlags: 0
@@ -15614,6 +15865,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1035182685
 GameObject:
   m_ObjectHideFlags: 0
@@ -15742,6 +15994,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1036955437
 GameObject:
   m_ObjectHideFlags: 0
@@ -15969,6 +16222,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1059035666
 GameObject:
   m_ObjectHideFlags: 0
@@ -16097,6 +16351,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1059078589
 GameObject:
   m_ObjectHideFlags: 0
@@ -16132,6 +16387,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1059078591
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16353,6 +16609,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1087767986
 GameObject:
   m_ObjectHideFlags: 0
@@ -16481,6 +16738,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1089234821
 GameObject:
   m_ObjectHideFlags: 0
@@ -16609,6 +16867,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1109851180
 GameObject:
   m_ObjectHideFlags: 0
@@ -16768,6 +17027,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1137267079
 GameObject:
   m_ObjectHideFlags: 0
@@ -16896,6 +17156,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1140230752
 GameObject:
   m_ObjectHideFlags: 0
@@ -17024,6 +17285,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1144944623
 GameObject:
   m_ObjectHideFlags: 0
@@ -17152,6 +17414,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1148060090
 GameObject:
   m_ObjectHideFlags: 0
@@ -17280,6 +17543,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1155611888
 GameObject:
   m_ObjectHideFlags: 0
@@ -17408,6 +17672,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1158381668
 GameObject:
   m_ObjectHideFlags: 0
@@ -17536,6 +17801,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1161429373
 GameObject:
   m_ObjectHideFlags: 0
@@ -17571,6 +17837,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1161429375
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17792,6 +18059,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1179103410
 GameObject:
   m_ObjectHideFlags: 0
@@ -17920,6 +18188,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1195672750
 GameObject:
   m_ObjectHideFlags: 0
@@ -17955,6 +18224,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1195672752
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18176,6 +18446,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1215452117
 GameObject:
   m_ObjectHideFlags: 0
@@ -18211,6 +18482,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1215452119
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18339,6 +18611,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1245810092
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18467,6 +18740,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1248990686
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18719,6 +18993,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1277595126
 GameObject:
   m_ObjectHideFlags: 0
@@ -18847,6 +19122,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1288744514
 GameObject:
   m_ObjectHideFlags: 0
@@ -18882,6 +19158,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1288744516
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19103,6 +19380,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1299032859
 GameObject:
   m_ObjectHideFlags: 0
@@ -19231,6 +19509,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1325078157
 GameObject:
   m_ObjectHideFlags: 0
@@ -19476,6 +19755,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1328644597
 GameObject:
   m_ObjectHideFlags: 0
@@ -19604,6 +19884,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1338466545
 GameObject:
   m_ObjectHideFlags: 0
@@ -19732,6 +20013,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1352259338
 GameObject:
   m_ObjectHideFlags: 0
@@ -19767,6 +20049,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1352259340
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19954,6 +20237,7 @@ RectTransform:
   m_Children:
   - {fileID: 2085792524}
   - {fileID: 1002950243}
+  - {fileID: 1489537088}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20121,6 +20405,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1388466872
 GameObject:
   m_ObjectHideFlags: 0
@@ -20156,6 +20441,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1388466874
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20377,6 +20663,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1413802794
 GameObject:
   m_ObjectHideFlags: 0
@@ -20505,6 +20792,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1431099922
 GameObject:
   m_ObjectHideFlags: 0
@@ -20633,6 +20921,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1432572047
 GameObject:
   m_ObjectHideFlags: 0
@@ -20761,6 +21050,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1440613963
 GameObject:
   m_ObjectHideFlags: 0
@@ -20920,6 +21210,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1466065226
 GameObject:
   m_ObjectHideFlags: 0
@@ -20955,6 +21246,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1466065228
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21176,6 +21468,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1476045911
 GameObject:
   m_ObjectHideFlags: 0
@@ -21304,6 +21597,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1484688265
 GameObject:
   m_ObjectHideFlags: 0
@@ -21339,7 +21633,7 @@ MonoBehaviour:
   _timeToSpawn: 0
   _wavesCount: 10
   _enemiesParent: {fileID: 2656783170227741661, guid: fcf29623534a9924b8bd62d4b3e38483, type: 3}
-  _textNumberOfWave: {fileID: 0}
+  _textNumberOfWave: {fileID: 1591929470}
 --- !u!4 &1484688267
 Transform:
   m_ObjectHideFlags: 0
@@ -21390,6 +21684,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1485232380
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21611,6 +21906,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1486112895
 GameObject:
   m_ObjectHideFlags: 0
@@ -21739,6 +22035,129 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
+--- !u!1 &1489537087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1489537088}
+  - component: {fileID: 1489537091}
+  - component: {fileID: 1489537090}
+  - component: {fileID: 1489537089}
+  m_Layer: 5
+  m_Name: Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1489537088
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1489537087}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 413518318}
+  m_Father: {fileID: 1354502991}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -381.2, y: 203.86127}
+  m_SizeDelta: {x: 29.3127, y: 27.0299}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1489537089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1489537087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1489537090}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1489537090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1489537087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1489537091
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1489537087}
+  m_CullTransparentMesh: 1
 --- !u!1 &1492579482
 GameObject:
   m_ObjectHideFlags: 0
@@ -21867,6 +22286,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1494465438
 GameObject:
   m_ObjectHideFlags: 0
@@ -21995,6 +22415,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1001 &1504198807
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22091,6 +22512,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1504429719
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22312,6 +22734,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1509787928
 GameObject:
   m_ObjectHideFlags: 0
@@ -22440,6 +22863,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1516483993
 GameObject:
   m_ObjectHideFlags: 0
@@ -22568,6 +22992,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1520902279
 GameObject:
   m_ObjectHideFlags: 0
@@ -22603,6 +23028,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1520902281
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22762,6 +23188,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1540281542
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22983,6 +23410,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1546877805
 GameObject:
   m_ObjectHideFlags: 0
@@ -23111,6 +23539,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1551806094
 GameObject:
   m_ObjectHideFlags: 0
@@ -23146,6 +23575,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1551806096
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -23367,6 +23797,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1001 &1558136418
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23603,6 +24034,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1590492329
 GameObject:
   m_ObjectHideFlags: 0
@@ -23731,6 +24163,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1591929468
 GameObject:
   m_ObjectHideFlags: 0
@@ -23766,7 +24199,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 11.776642}
+  m_AnchoredPosition: {x: 18, y: 5.8900046}
   m_SizeDelta: {x: 71.43, y: 61.78}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1591929470
@@ -23789,7 +24222,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23816,8 +24249,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -23901,6 +24334,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1599455804
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24122,6 +24556,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1605827779
 GameObject:
   m_ObjectHideFlags: 0
@@ -24157,6 +24592,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1605827781
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24285,6 +24721,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1607505362
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24413,6 +24850,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1621624063
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24634,6 +25072,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1632070118
 GameObject:
   m_ObjectHideFlags: 0
@@ -24669,6 +25108,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1632070120
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24890,6 +25330,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1643787419
 GameObject:
   m_ObjectHideFlags: 0
@@ -24925,6 +25366,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1643787421
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25177,6 +25619,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1662231087
 GameObject:
   m_ObjectHideFlags: 0
@@ -25305,6 +25748,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1675376181
 GameObject:
   m_ObjectHideFlags: 0
@@ -25340,6 +25784,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1675376183
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25561,6 +26006,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1689437772
 GameObject:
   m_ObjectHideFlags: 0
@@ -25689,6 +26135,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1691581756
 GameObject:
   m_ObjectHideFlags: 0
@@ -25817,6 +26264,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1698253856
 GameObject:
   m_ObjectHideFlags: 0
@@ -25852,6 +26300,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1698253858
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26073,6 +26522,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1708319938
 GameObject:
   m_ObjectHideFlags: 0
@@ -26201,6 +26651,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1709519913
 GameObject:
   m_ObjectHideFlags: 0
@@ -26329,6 +26780,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1717354123
 GameObject:
   m_ObjectHideFlags: 0
@@ -26364,6 +26816,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1717354125
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26713,6 +27166,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1742527188
 GameObject:
   m_ObjectHideFlags: 0
@@ -26841,6 +27295,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1750908411
 GameObject:
   m_ObjectHideFlags: 0
@@ -26891,6 +27346,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1750908414
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27097,6 +27553,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1001 &1766678878
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27290,6 +27747,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1776455825
 GameObject:
   m_ObjectHideFlags: 0
@@ -27418,6 +27876,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1783092296
 GameObject:
   m_ObjectHideFlags: 0
@@ -27453,6 +27912,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1783092298
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27581,6 +28041,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1783670404
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27802,6 +28263,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1792350057
 GameObject:
   m_ObjectHideFlags: 0
@@ -27930,6 +28392,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1795350216
 GameObject:
   m_ObjectHideFlags: 0
@@ -27965,6 +28428,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1795350218
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28186,6 +28650,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1802712166
 GameObject:
   m_ObjectHideFlags: 0
@@ -28314,6 +28779,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1807856082
 GameObject:
   m_ObjectHideFlags: 0
@@ -28442,6 +28908,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1821811698
 GameObject:
   m_ObjectHideFlags: 0
@@ -28570,6 +29037,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1825121611
 GameObject:
   m_ObjectHideFlags: 0
@@ -28605,6 +29073,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1825121613
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28794,6 +29263,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1834168504
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29015,6 +29485,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1860752383
 GameObject:
   m_ObjectHideFlags: 0
@@ -29240,6 +29711,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1860813441
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29368,6 +29840,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1867380703
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29496,6 +29969,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1870320324
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29624,6 +30098,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1877018872
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29752,6 +30227,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1877395226
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29973,6 +30449,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1892365004
 GameObject:
   m_ObjectHideFlags: 0
@@ -30008,6 +30485,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1892365006
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30229,6 +30707,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1909867630
 GameObject:
   m_ObjectHideFlags: 0
@@ -30264,6 +30743,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1909867632
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30485,6 +30965,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1922848758
 GameObject:
   m_ObjectHideFlags: 0
@@ -30613,6 +31094,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1934689268
 GameObject:
   m_ObjectHideFlags: 0
@@ -30741,6 +31223,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1939625823
 GameObject:
   m_ObjectHideFlags: 0
@@ -30776,6 +31259,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1939625825
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31085,6 +31569,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1952429084
 GameObject:
   m_ObjectHideFlags: 0
@@ -31120,6 +31605,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1952429086
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31341,6 +31827,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &1977119601
 GameObject:
   m_ObjectHideFlags: 0
@@ -31376,6 +31863,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &1977119603
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31640,6 +32128,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2013604133
 GameObject:
   m_ObjectHideFlags: 0
@@ -31675,6 +32164,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2013604135
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31896,6 +32386,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2042814517
 GameObject:
   m_ObjectHideFlags: 0
@@ -32024,6 +32515,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2050088705
 GameObject:
   m_ObjectHideFlags: 0
@@ -32152,6 +32644,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2057068181
 GameObject:
   m_ObjectHideFlags: 0
@@ -32280,6 +32773,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2064919364
 GameObject:
   m_ObjectHideFlags: 0
@@ -32408,6 +32902,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2077322078
 GameObject:
   m_ObjectHideFlags: 0
@@ -32536,6 +33031,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2084816677
 GameObject:
   m_ObjectHideFlags: 0
@@ -32571,6 +33067,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2084816679
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32700,7 +33197,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -31, y: 0}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &2085792525
@@ -32835,6 +33332,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 0.4, g: 1, b: 0, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2088664161
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32963,6 +33461,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2095755664
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33184,6 +33683,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2118075166
 GameObject:
   m_ObjectHideFlags: 0
@@ -33219,6 +33719,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2118075168
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33347,6 +33848,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2118643777
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33475,6 +33977,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!61 &2120795487
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33696,6 +34199,7 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}
 --- !u!1 &2144663315
 GameObject:
   m_ObjectHideFlags: 0
@@ -33824,3 +34328,4 @@ MonoBehaviour:
   hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 0.9811321, g: 0.44031936, b: 0.44031936, a: 1}
+  ShopPref: {fileID: 0}

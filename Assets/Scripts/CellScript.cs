@@ -14,8 +14,9 @@ public class CellScript : MonoBehaviour
 
     private void OnMouseEnter()
     {
-        if (!isGround && FindObjectOfType<ShopScript>().Lenght == 0)
-            GetComponent<SpriteRenderer>().color = ÑurrColor;
+
+        if (!isGround)
+           GetComponent<SpriteRenderer>().color = ÑurrColor;
     }
 
     private void OnMouseExit()
@@ -25,12 +26,13 @@ public class CellScript : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if (!isGround && FindObjectOfType<ShopScript>().Lenght == 0)
+        if (!isGround)
+        {
             if (!hasTower)
             {
-                GameObject shopObject = Instantiate(ShopPref);
-                shopObject.tranform.SetParent(GameObject.Find("Canvas").transform, false);
-
+                GameObject shopObj = Instantiate(ShopPref);
+                shopObj.transform.SetParent(GameObject.Find("Canvas").transform, false);
             }
+        }
     }
 }
