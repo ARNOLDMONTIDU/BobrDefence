@@ -70,7 +70,7 @@ public class EnemyScript : MonoBehaviour
     {
         if (selfEnemy.Health <= 0)
         {
-            GameManager.Instance.GameMoney += 10;
+            GameManager.Instance.GameMoney += 15;
             FindObjectOfType<EnemySpawner>()._countOfDeadEnemies++;
             Destroy(gameObject);
         }

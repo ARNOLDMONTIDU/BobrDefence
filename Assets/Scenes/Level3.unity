@@ -175,7 +175,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &15645027
 BoxCollider2D:
@@ -442,7 +442,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &53542567
 BoxCollider2D:
@@ -574,7 +574,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &53849381
 BoxCollider2D:
@@ -841,7 +841,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &65366133
 BoxCollider2D:
@@ -973,7 +973,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &73192952
 BoxCollider2D:
@@ -1105,7 +1105,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &83343852
 BoxCollider2D:
@@ -1237,7 +1237,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &132104183
 BoxCollider2D:
@@ -1369,7 +1369,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &148819241
 BoxCollider2D:
@@ -1501,7 +1501,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &158125931
 BoxCollider2D:
@@ -1633,7 +1633,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &166466987
 BoxCollider2D:
@@ -1827,7 +1827,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &196720690
 BoxCollider2D:
@@ -2094,7 +2094,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &205742316
 BoxCollider2D:
@@ -2360,7 +2360,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &240608860
 BoxCollider2D:
@@ -2657,7 +2657,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &261999216
 BoxCollider2D:
@@ -2924,7 +2924,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &338332966
 BoxCollider2D:
@@ -3056,7 +3056,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &353350221
 BoxCollider2D:
@@ -3188,7 +3188,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &372540293
 BoxCollider2D:
@@ -3320,7 +3320,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &377281124
 BoxCollider2D:
@@ -3452,7 +3452,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &398252683
 BoxCollider2D:
@@ -3584,7 +3584,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &415062215
 BoxCollider2D:
@@ -3716,7 +3716,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &418769049
 BoxCollider2D:
@@ -3970,7 +3970,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &432758995
 BoxCollider2D:
@@ -4102,7 +4102,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &463606289
 BoxCollider2D:
@@ -4234,7 +4234,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &474097428
 BoxCollider2D:
@@ -4450,7 +4450,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &488287579
 BoxCollider2D:
@@ -4582,7 +4582,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &494145488
 BoxCollider2D:
@@ -4714,7 +4714,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &515867141
 BoxCollider2D:
@@ -4952,7 +4952,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &522234047
 BoxCollider2D:
@@ -5115,7 +5115,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &540686148
 BoxCollider2D:
@@ -5247,7 +5247,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &545064161
 BoxCollider2D:
@@ -5379,7 +5379,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &557871969
 BoxCollider2D:
@@ -5511,7 +5511,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &561639312
 BoxCollider2D:
@@ -5900,7 +5900,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &615120839
 BoxCollider2D:
@@ -6136,7 +6136,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &628010128
 BoxCollider2D:
@@ -6448,7 +6448,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &649358169
 BoxCollider2D:
@@ -6580,7 +6580,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &659327866
 BoxCollider2D:
@@ -6712,7 +6712,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &690185626
 BoxCollider2D:
@@ -6844,7 +6844,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &723175340
 BoxCollider2D:
@@ -6976,7 +6976,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &733734626
 BoxCollider2D:
@@ -7108,7 +7108,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &741322665
 BoxCollider2D:
@@ -7240,7 +7240,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &776262307
 BoxCollider2D:
@@ -7372,7 +7372,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &780569832
 BoxCollider2D:
@@ -7674,7 +7674,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &800215614
 BoxCollider2D:
@@ -7806,7 +7806,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &808627746
 BoxCollider2D:
@@ -7938,7 +7938,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &829693589
 BoxCollider2D:
@@ -8070,7 +8070,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &854181569
 BoxCollider2D:
@@ -8336,7 +8336,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &870888403
 BoxCollider2D:
@@ -8468,7 +8468,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &880161150
 BoxCollider2D:
@@ -8600,7 +8600,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &908756838
 BoxCollider2D:
@@ -8732,7 +8732,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &911341689
 BoxCollider2D:
@@ -8968,7 +8968,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &930786718
 BoxCollider2D:
@@ -9131,7 +9131,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &938737324
 BoxCollider2D:
@@ -9263,7 +9263,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &956221036
 BoxCollider2D:
@@ -9395,7 +9395,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &975068212
 BoxCollider2D:
@@ -9527,7 +9527,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &986841329
 BoxCollider2D:
@@ -9659,7 +9659,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &987923487
 BoxCollider2D:
@@ -9791,7 +9791,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1002396293
 BoxCollider2D:
@@ -9923,7 +9923,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1010622309
 BoxCollider2D:
@@ -10123,7 +10123,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1050636736
 BoxCollider2D:
@@ -10255,7 +10255,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1059736105
 BoxCollider2D:
@@ -10387,7 +10387,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1069467053
 BoxCollider2D:
@@ -10654,7 +10654,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1084704095
 BoxCollider2D:
@@ -10786,7 +10786,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1091881786
 BoxCollider2D:
@@ -10918,7 +10918,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1096936693
 BoxCollider2D:
@@ -11050,7 +11050,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1100180907
 BoxCollider2D:
@@ -11182,7 +11182,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1104743206
 BoxCollider2D:
@@ -11314,7 +11314,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1105564249
 BoxCollider2D:
@@ -11446,7 +11446,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1110849551
 BoxCollider2D:
@@ -11578,7 +11578,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1124611468
 BoxCollider2D:
@@ -11710,7 +11710,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1140837035
 BoxCollider2D:
@@ -11842,7 +11842,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1144323782
 BoxCollider2D:
@@ -11974,7 +11974,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1180536797
 BoxCollider2D:
@@ -12241,7 +12241,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1193092831
 BoxCollider2D:
@@ -12373,7 +12373,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1204369045
 BoxCollider2D:
@@ -12536,7 +12536,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1228929552
 BoxCollider2D:
@@ -12668,7 +12668,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1231496039
 BoxCollider2D:
@@ -12800,7 +12800,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1234137129
 BoxCollider2D:
@@ -12932,7 +12932,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1236192891
 BoxCollider2D:
@@ -13064,7 +13064,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1243610380
 BoxCollider2D:
@@ -13196,7 +13196,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1267021818
 BoxCollider2D:
@@ -13328,7 +13328,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1268990443
 BoxCollider2D:
@@ -13460,7 +13460,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1275842451
 BoxCollider2D:
@@ -13592,7 +13592,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1283289430
 BoxCollider2D:
@@ -13724,7 +13724,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1328207919
 BoxCollider2D:
@@ -13856,7 +13856,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1342557998
 BoxCollider2D:
@@ -14110,7 +14110,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1356633308
 BoxCollider2D:
@@ -14242,7 +14242,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1369872397
 BoxCollider2D:
@@ -14374,7 +14374,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1392300511
 BoxCollider2D:
@@ -14506,7 +14506,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1405508929
 BoxCollider2D:
@@ -14638,7 +14638,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1412689812
 BoxCollider2D:
@@ -14905,7 +14905,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1423676200
 BoxCollider2D:
@@ -15068,7 +15068,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1442989086
 BoxCollider2D:
@@ -15200,7 +15200,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1456851637
 BoxCollider2D:
@@ -15332,7 +15332,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1472599330
 BoxCollider2D:
@@ -15489,7 +15489,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1484688265}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.01, y: 10.42, z: -0.46625808}
+  m_LocalPosition: {x: -14.24, y: 10.37, z: -0.46625808}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15548,7 +15548,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1492831384
 BoxCollider2D:
@@ -15680,7 +15680,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1494677872
 BoxCollider2D:
@@ -15915,7 +15915,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1517662068
 BoxCollider2D:
@@ -16047,7 +16047,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1537335247
 BoxCollider2D:
@@ -16179,7 +16179,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1550729326
 BoxCollider2D:
@@ -16311,7 +16311,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1565965754
 BoxCollider2D:
@@ -16443,7 +16443,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1566993281
 BoxCollider2D:
@@ -16575,7 +16575,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1577183526
 BoxCollider2D:
@@ -16754,7 +16754,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1602605501
 BoxCollider2D:
@@ -16886,7 +16886,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1604263329
 BoxCollider2D:
@@ -17094,7 +17094,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1615813965
 BoxCollider2D:
@@ -17226,7 +17226,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1643261865
 BoxCollider2D:
@@ -17358,7 +17358,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1660556161
 BoxCollider2D:
@@ -17490,7 +17490,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1666138634
 BoxCollider2D:
@@ -17622,7 +17622,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1667893229
 BoxCollider2D:
@@ -17754,7 +17754,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1668741090
 BoxCollider2D:
@@ -18020,7 +18020,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1706513777
 BoxCollider2D:
@@ -18152,7 +18152,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1719931733
 BoxCollider2D:
@@ -18284,7 +18284,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1723172051
 BoxCollider2D:
@@ -18551,7 +18551,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1726501365
 BoxCollider2D:
@@ -18683,7 +18683,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1727271179
 BoxCollider2D:
@@ -18859,7 +18859,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1736436093
 BoxCollider2D:
@@ -18991,7 +18991,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1743456832
 BoxCollider2D:
@@ -19123,7 +19123,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1745511729
 BoxCollider2D:
@@ -19286,7 +19286,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1758077477
 BoxCollider2D:
@@ -19449,7 +19449,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1777831212
 BoxCollider2D:
@@ -19581,7 +19581,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1782972951
 BoxCollider2D:
@@ -19713,7 +19713,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1786193909
 BoxCollider2D:
@@ -19876,7 +19876,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1808873060
 BoxCollider2D:
@@ -20174,7 +20174,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1822053981
 BoxCollider2D:
@@ -20337,7 +20337,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1877216279
 BoxCollider2D:
@@ -20469,7 +20469,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1908281682
 BoxCollider2D:
@@ -20601,7 +20601,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1927938953
 BoxCollider2D:
@@ -20777,7 +20777,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1938722513
 BoxCollider2D:
@@ -20909,7 +20909,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1968612069
 BoxCollider2D:
@@ -21041,7 +21041,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &1969566528
 BoxCollider2D:
@@ -21339,7 +21339,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2006699981
 BoxCollider2D:
@@ -21471,7 +21471,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2006855270
 BoxCollider2D:
@@ -21874,7 +21874,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2074972011
 BoxCollider2D:
@@ -22082,7 +22082,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2083900948
 BoxCollider2D:
@@ -22214,7 +22214,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2091130777
 BoxCollider2D:
@@ -22480,7 +22480,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2100329179
 BoxCollider2D:
@@ -22612,7 +22612,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2118563219
 BoxCollider2D:
@@ -22744,7 +22744,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2125861391
 BoxCollider2D:
@@ -22876,7 +22876,7 @@ MonoBehaviour:
   DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
-  DestroyPref: {fileID: 0}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
   SelfTower: {fileID: 0}
 --- !u!61 &2126674121
 BoxCollider2D:

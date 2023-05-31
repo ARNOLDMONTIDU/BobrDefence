@@ -76,15 +76,15 @@ public class GameControllerScript : MonoBehaviour
     private void Awake()
     {
         //string Name, int type, float range, float coolDown, int Price, string path)
-        AllTowers.Add(new Tower("FastTower", 0, 2, 1f, 100, "TowerSprites/FastTower"));
+        AllTowers.Add(new Tower("SimpleTower", 0, 2, 1f, 100, "TowerSprites/FastTower"));
         AllTowers.Add(new Tower("LongTower", 1, 4, 3f, 200,"TowerSprites/SlowTower")); 
-        AllTowers.Add(new Tower("RangeTower", 2, 2, 1.5f, 300,"TowerSprites/OneMoreTower"));
+        AllTowers.Add(new Tower("RangeTower", 2, 2, 2f, 300,"TowerSprites/OneMoreTower"));
         //(float speed, int dmg, string path)
-        AllProjectiles.Add(new TowerProjectile(5, 10, "ProjectilesSprites/FastProjectile"));
-        AllProjectiles.Add(new TowerProjectile(7, 25, "ProjectilesSprites/SlowProjectile"));
+        AllProjectiles.Add(new TowerProjectile(3, 10, "ProjectilesSprites/FastProjectile"));
+        AllProjectiles.Add(new TowerProjectile(5, 25, "ProjectilesSprites/SlowProjectile"));
         AllProjectiles.Add(new TowerProjectile(3, 5, "ProjectilesSprites/atack3"));
         //(float health, float speed, string sprPath)
-        AllEnemies.Add(new Enemy(20,1f, "EnemySprites/SimpleEnemy"));
+        AllEnemies.Add(new Enemy(20, 1f, "EnemySprites/SimpleEnemy"));
         AllEnemies.Add(new Enemy(10, 2f, "EnemySprites/FastEnemy"));
         AllEnemies.Add(new Enemy(50, 0.5f, "EnemySprites/HeavyEnemy"));
         
