@@ -10,7 +10,7 @@ public class Music : MonoBehaviour
 
     public Image MusicButton;
     public bool isOn;
-    public AudioSorce ad;
+
 
     // Start is called before the first frame update
     void Start()
@@ -21,9 +21,6 @@ public class Music : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (PlayerPref)
-        {
-
-        }
+        
     }
 }

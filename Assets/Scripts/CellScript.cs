@@ -7,7 +7,7 @@ public class CellScript : MonoBehaviour
 {
     public bool isGround, hasTower = false;
 
-    public Color BaseColor, ÑurrColor;
+    public Color BaseColor, ÑurrColor, DestroyColor;
 
     public GameObject ShopPref, TowerPref;
 
@@ -16,10 +16,10 @@ public class CellScript : MonoBehaviour
 
     private void OnMouseEnter()
     {
-
-
         if (!isGround && FindObjectsOfType<ShopScript>().Length == 0)
-           GetComponent<SpriteRenderer>().color = ÑurrColor;
+            GetComponent<SpriteRenderer>().color = ÑurrColor;
+        else
+            GetComponent<SpriteRenderer>().color = DestroyColor;
     }
 
     private void OnMouseExit()
