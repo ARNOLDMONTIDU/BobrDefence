@@ -35,6 +35,8 @@ public class GameManager : MonoBehaviour
         {
             ToPause();
         }
+
+        
     }
 
     public void PlayBtn()
@@ -85,7 +87,7 @@ public class GameManager : MonoBehaviour
     {
         if (LivesCount > 1)
         {
-            LivesCount--;
+            LivesCount--;            
         }
         else
         {

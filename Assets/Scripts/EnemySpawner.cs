@@ -11,6 +11,8 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] private float _timeToSpawn;
     [SerializeField] private int _wavesCount;
     private int _numberOfWave = 0;
+    public int _countOfDeadEnemies;
+    public int _countOfAllEnemies;
     [SerializeField] private Transform _enemiesParent;
 
     [SerializeField] private TextMeshProUGUI _textNumberOfWave;
@@ -20,6 +22,7 @@ public class EnemySpawner : MonoBehaviour
     private void Start()
     {
         gcs = FindObjectOfType<GameControllerScript>();
+        _countOfAllEnemies++;
     }
 
     void Update()
@@ -36,8 +39,17 @@ public class EnemySpawner : MonoBehaviour
 
             _timeToSpawn -= Time.deltaTime;
 
-            _textNumberOfWave.text = _numberOfWave.ToString();
+            //_textNumberOfWave.text = _numberOfWave.ToString();
         }
+
+
+        if (FindObjectOfType<EnemySpawner>()._countOfAllEnemies
+            <= FindObjectOfType<EnemySpawner>()._countOfDeadEnemies
+            && GameObject.FindGameObjectsWithTag("Enemy").Length == 0)
+        {
+            FindObjectOfType<GameManager>().ToMenuWin();
+        }
+        
     }
 
     IEnumerator SpawnEnemy(int enemyCount)
@@ -47,6 +59,7 @@ public class EnemySpawner : MonoBehaviour
         for (int i = 0; i < enemyCount; i++)
         {
             GameObject tempEnemy = Instantiate(_enemyPrefab);
+            _countOfAllEnemies++;
             tempEnemy.transform.SetParent(gameObject.transform, false);
 
             
@@ -56,6 +69,7 @@ public class EnemySpawner : MonoBehaviour
             
 
             yield return new WaitForSeconds(0.6f);
+
         }
 
         
