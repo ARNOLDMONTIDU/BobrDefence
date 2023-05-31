@@ -53,6 +53,7 @@ public class EnemyScript : MonoBehaviour
             }
             else
             {
+                GameManager.Instance.MinusLive();
                 Destroy(gameObject);
             }
         }
