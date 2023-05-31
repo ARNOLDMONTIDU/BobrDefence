@@ -6,7 +6,7 @@ public class TowerScript : MonoBehaviour
 {
 
     [SerializeField] private GameObject _projectile;
-    Tower selfTower;
+    public Tower selfTower;
     public TowerType selfType;
     GameControllerScript gcs;
 

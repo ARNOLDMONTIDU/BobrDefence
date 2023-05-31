@@ -125,8 +125,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGround: 0
-  hasTower: 0
   BaseColor: {r: 1, g: 1, b: 1, a: 1}
   "\u0421urrColor": {r: 1, g: 0.3638814, b: 0.3638814, a: 1}
+  DestroyColor: {r: 0, g: 0, b: 0, a: 0}
   ShopPref: {fileID: 5563464390685453395, guid: 862b132caa862004ba43cb5618bdf322, type: 3}
   TowerPref: {fileID: 6295266021761703666, guid: d36c9cbd48ae3a144bb044aa5edd94dc, type: 3}
+  DestroyPref: {fileID: 8754678250567506918, guid: 06ede0bf549d76f44b77cdc1653ff333, type: 3}
+  SelfTower: {fileID: 0}
