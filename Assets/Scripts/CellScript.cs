@@ -29,7 +29,8 @@ public class CellScript : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if (!isGround && FindObjectsOfType<ShopScript>().Length == 0)
+        if (!isGround && FindObjectsOfType<ShopScript>().Length == 0
+            && GameManager.Instance.canSpawn)
         {
             if (!hasTower)
             {

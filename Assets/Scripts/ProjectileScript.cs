@@ -60,7 +60,7 @@ public class ProjectileScript : MonoBehaviour
                 target.GetComponent<EnemyScript>().TakeDamage(selfProjectile.damage);
                 break;
             case (int)TowerType.THIRTH_TOWER:
-                target.GetComponent<EnemyScript>().AOEDamage(2, selfProjectile.damage);
+                target.GetComponent<EnemyScript>().AOEDamage(4, selfProjectile.damage);
                 target.GetComponent<EnemyScript>().TakeDamage(selfProjectile.damage);
                 break;
         }

@@ -9,8 +9,17 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c9f09b1b63a40774fbd5c8b56372e5ce
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: aa2d4b8a57f2b23439fb9d491eea92c5
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: cc41e2b027645c84288304867fd4116f
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 782efef3dab7e3e41b3181589805b47d, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 7bc1a4ba072695440921bc05e59f2e8b, type: 2}

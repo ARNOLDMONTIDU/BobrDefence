@@ -24,15 +24,20 @@ public class EnemySpawner : MonoBehaviour
 
     void Update()
     {
-        if (_timeToSpawn <= 0 && _numberOfWave < _wavesCount)
+        if (GameManager.Instance.canSpawn )
         {
-            StartCoroutine(SpawnEnemy(_numberOfWave + 1));
-            _timeToSpawn = _constTimeToSpawn;
+
+
+            if (_timeToSpawn <= 0 && _numberOfWave < _wavesCount)
+            {
+                StartCoroutine(SpawnEnemy(_numberOfWave + 1));
+                _timeToSpawn = _constTimeToSpawn;
+            }
+
+            _timeToSpawn -= Time.deltaTime;
+
+            _textNumberOfWave.text = _numberOfWave.ToString();
         }
-
-        _timeToSpawn -= Time.deltaTime;
-
-        _textNumberOfWave.text = _numberOfWave.ToString();
     }
 
     IEnumerator SpawnEnemy(int enemyCount)

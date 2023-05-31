@@ -75,18 +75,18 @@ public class GameControllerScript : MonoBehaviour
 
     private void Awake()
     {
-        //name, range, cooldown, Price, path
-        AllTowers.Add(new Tower("FastTower", 0, 2, 3f, 100, "TowerSprites/FastTower"));
-        AllTowers.Add(new Tower("SlowTower", 1, 4, 1f, 200,"TowerSprites/SlowTower")); 
-        AllTowers.Add(new Tower("FireTower", 2, 3, 2f, 300,"TowerSprites/OneMoreTower"));
-        //speed, damage, path
-        AllProjectiles.Add(new TowerProjectile(7, 10, "ProjectilesSprites/FastProjectile"));
-        AllProjectiles.Add(new TowerProjectile(3, 15, "ProjectilesSprites/SlowProjectile"));
-        AllProjectiles.Add(new TowerProjectile(4, 8, "ProjectilesSprites/SlowProjectile"));
-
-        AllEnemies.Add(new Enemy(60,2, "EnemySprites/SimpleEnemy"));
-        AllEnemies.Add(new Enemy(30, 4, "EnemySprites/FastEnemy"));
-        AllEnemies.Add(new Enemy(100, 1.5f, "EnemySprites/HeavyEnemy"));
+        //string Name, int type, float range, float coolDown, int Price, string path)
+        AllTowers.Add(new Tower("FastTower", 0, 2, 1f, 100, "TowerSprites/FastTower"));
+        AllTowers.Add(new Tower("LongTower", 1, 4, 3f, 200,"TowerSprites/SlowTower")); 
+        AllTowers.Add(new Tower("RangeTower", 2, 2, 1.5f, 300,"TowerSprites/OneMoreTower"));
+        //(float speed, int dmg, string path)
+        AllProjectiles.Add(new TowerProjectile(5, 10, "ProjectilesSprites/FastProjectile"));
+        AllProjectiles.Add(new TowerProjectile(7, 25, "ProjectilesSprites/SlowProjectile"));
+        AllProjectiles.Add(new TowerProjectile(3, 5, "ProjectilesSprites/atack3"));
+        //(float health, float speed, string sprPath)
+        AllEnemies.Add(new Enemy(20,1f, "EnemySprites/SimpleEnemy"));
+        AllEnemies.Add(new Enemy(10, 2f, "EnemySprites/FastEnemy"));
+        AllEnemies.Add(new Enemy(50, 0.5f, "EnemySprites/HeavyEnemy"));
         
     }
 }
