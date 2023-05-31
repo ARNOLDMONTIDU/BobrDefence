@@ -15,11 +15,10 @@ public class MoneyManager : MonoBehaviour
     {
         Instance = this;
 
-
     }
 
     void Update()
     {
-        //MoneyTxt.text = GameMoney.ToString(); 
+        MoneyTxt.text = GameMoney.ToString(); 
     }
 }

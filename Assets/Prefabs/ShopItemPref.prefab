@@ -441,3 +441,5 @@ MonoBehaviour:
   TowerLogo: {fileID: 1245153635274939950}
   TowerName: {fileID: 1245153633839550167}
   TowerPrice: {fileID: 1245153634965933683}
+  BaseColor: {r: 0, g: 0, b: 0, a: 0}
+  CurrColor: {r: 0.4056604, g: 0.4056604, b: 0.4056604, a: 1}

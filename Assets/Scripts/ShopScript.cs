@@ -10,6 +10,8 @@ public class ShopScript : MonoBehaviour
 
     GameControllerScript gcs;
 
+    public CellScript selfCell;
+
     void Start()
     {
         gcs = FindObjectOfType<GameControllerScript>();
@@ -18,7 +20,7 @@ public class ShopScript : MonoBehaviour
         {
             GameObject tmpItem = Instantiate(ItemPref);
             tmpItem.transform.SetParent(ItemGrid, false);
-            tmpItem.GetComponent<ShopItemScript>().SetStartData(tower);
+            tmpItem.GetComponent<ShopItemScript>().SetStartData(tower, selfCell);
         }
 
     }

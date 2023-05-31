@@ -68,6 +68,8 @@ public class EnemyScript : MonoBehaviour
     {
         if (selfEnemy.Health <= 0)
         {
+            MoneyManager.Instance.GameMoney += 10;
+
             Destroy(gameObject);
         }
     }
