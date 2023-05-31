@@ -48,7 +48,7 @@ public class EnemySpawner : MonoBehaviour
 
             tempEnemy.GetComponent<EnemyScript>()._wayPointParent = _wayPointParent;
             tempEnemy.GetComponent<EnemyScript>().selfEnemy = new Enemy(gcs.AllEnemies[Random.Range(0, gcs.AllEnemies.Count)]);
-
+            
 
             yield return new WaitForSeconds(0.6f);
         }
