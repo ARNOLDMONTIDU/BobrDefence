@@ -4896,7 +4896,7 @@ MonoBehaviour:
   Pause: {fileID: 926809135}
   Win: {fileID: 1497801924}
   Lose: {fileID: 624452215}
-  GameMoney: 10000
+  GameMoney: 300
   LivesCount: 5
   canSpawn: 1
   timer: 0
@@ -15476,7 +15476,7 @@ MonoBehaviour:
   _wayPointParent: {fileID: 1930055267}
   _constTimeToSpawn: 3
   _timeToSpawn: 0
-  _wavesCount: 5
+  _wavesCount: 20
   _countOfDeadEnemies: 0
   _countOfAllEnemies: 0
   _enemiesParent: {fileID: 2656783170227741661, guid: fcf29623534a9924b8bd62d4b3e38483, type: 3}

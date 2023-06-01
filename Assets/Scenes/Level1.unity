@@ -13921,7 +13921,7 @@ MonoBehaviour:
   _wayPointParent: {fileID: 1990458842}
   _constTimeToSpawn: 3
   _timeToSpawn: 0
-  _wavesCount: 20
+  _wavesCount: 10
   _countOfDeadEnemies: 0
   _countOfAllEnemies: 0
   _enemiesParent: {fileID: 2656783170227741661, guid: fcf29623534a9924b8bd62d4b3e38483, type: 3}

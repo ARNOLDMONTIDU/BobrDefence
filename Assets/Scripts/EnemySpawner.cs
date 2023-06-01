@@ -43,9 +43,9 @@ public class EnemySpawner : MonoBehaviour
                 if (_numberOfWave == 5)
                     StartCoroutine(SpawnEnemy1(_numberOfWave));
                 if (_numberOfWave == 7)
-                    StartCoroutine(SpawnEnemy(_numberOfWave));
+                    StartCoroutine(SpawnEnemy2(_numberOfWave));
                 if (_numberOfWave == 7)
-                    StartCoroutine(SpawnEnemy1(_numberOfWave));
+                    StartCoroutine(SpawnEnemy(_numberOfWave));
 
                 _timeToSpawn = _constTimeToSpawn;
             }
